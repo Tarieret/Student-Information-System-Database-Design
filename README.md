@@ -13,4 +13,4 @@ Project Components:
 - Student DatabaseDesign.pdf: Detailed report outlining the design decisions, rationale, and considerations.
 - Student Database Schema.sql: SQL script containing the CREATE TABLE statements for the database.
 - ERD.png: Entity-Relationship Diagram (ERD) of the database schema.
-- GUI_Student_Database.py: Python file containing the GUI for interacting with the database (if applicable).
+- GUI_Student_Database.py: Python file containing the GUI for interacting with the database.
