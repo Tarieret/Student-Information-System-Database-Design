@@ -1,2 +1,2 @@
 # Student-Information-System-Database-Design
-For this project, I designed a MySQL database schema for a student information system. I utilized ERD, normalization, and data integrity constraints to create a robust and efficient data structure.
+This project focused on designing a relational database schema for a student information system. I utilized MySQL to implement a robust schema that manages student, course, instructor, and enrollment data. I employed Entity-Relationship Modeling (ERD) to visualize the database structure and ensured data integrity through normalization and the implementation of primary and foreign key constraints. 
